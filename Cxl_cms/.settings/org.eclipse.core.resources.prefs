@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/com/orange1024/common/CodeMsg.java=UTF-8
+encoding//src/com/orange1024/dao/BaseDao.java=UTF-8
+encoding//src/com/orange1024/dao/CustomerDao.java=UTF-8
+encoding//src/com/orange1024/util/JdbcUtil.java=UTF-8
+encoding//src/com/orange1024/util/RespUtil.java=UTF-8
+encoding//src/com/orange1024/util/SessionUtil.java=UTF-8
+encoding/<project>=UTF-8
